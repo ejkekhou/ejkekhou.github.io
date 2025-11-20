@@ -1,3 +1,4 @@
-# ejkekhou.github.io
+# Evi Kekhoua
 
-Hi My name is Evi and I am a second year student at MTU
+Hi My name is Evi Kekhoua
+  I'm a second year Ecological Engineering student :)
